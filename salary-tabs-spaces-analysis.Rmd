@@ -597,4 +597,4 @@ Unfortunately people don't always fill in surveys correctly and it is very hard 
 
 To sum it all up, I'm quite convinced that the difference in salaries of tab and space users is mainly due to the type of company and the environment they work in. Environments where people use Git and contribute to open source are more associated both with higher salaries and spaces, rather than with tabs. I'm sure there are other factors as well - let me know what you think! But beware: you can never trust the data completely.
 
-Finally, I'd like to thank David for providing [the code he used in his blog post](https://github.com/dgrtwo/tabs-spaces-post) and Stack Overflow for publishing the data from their developer survey. You can get my code [from my GitHub]().
+Finally, I'd like to thank David for providing [the code he used in his blog post](https://github.com/dgrtwo/tabs-spaces-post) and Stack Overflow for publishing the data from their developer survey. You can get my code [from my GitHub](https://github.com/evelinag/stackoverflow-survey-analysis).
