@@ -95,7 +95,7 @@ How does open source relate to our original tabs versus spaces debate? Turns out
 
 I think we're getting closer to potential causal explanations here. The main advantage of using tabs is that you can set how they are displayed in the IDE, with spaces the layout is fixed. This means that the same code can look very different for different people if using tabs. And when people start mixing the two, one person using tabs and other using spaces within the same file, it leads to a mess. My theory is that when diverse people are working on open source projects together without enforced coding style, the possible formatting mess is nudging people towards using spaces simply because the code is consistent for everyone. 
 
-This is just one of possible theories, I didn't look to see if possibly language communities that use predominantly spaces (like Python or Ruby) are more active in open source. Again, correlation doesn't imply causation.
+This is just one of many possible theories, I didn't look to see if possibly language communities that use predominantly spaces (like Python or Ruby) are more active in open source. Again, correlation doesn't imply causation.
 
 ### Tabs, spaces, open source & salary: how does it fit together?
 
@@ -184,7 +184,47 @@ Can we fix the data somehow? We can for example fit a mixture model to the data 
 
 ```
 ## fitting ...
-##   |                                                                         |                                                                 |   0%  |                                                                         |===                                                              |   5%  |                                                                         |=======                                                          |  11%  |                                                                         |==========                                                       |  16%  |                                                                         |==============                                                   |  21%  |                                                                         |=================                                                |  26%  |                                                                         |=====================                                            |  32%  |                                                                         |========================                                         |  37%  |                                                                         |===========================                                      |  42%  |                                                                         |===============================                                  |  47%  |                                                                         |==================================                               |  53%  |                                                                         |======================================                           |  58%  |                                                                         |=========================================                        |  63%  |                                                                         |============================================                     |  68%  |                                                                         |================================================                 |  74%  |                                                                         |===================================================              |  79%  |                                                                         |=======================================================          |  84%  |                                                                         |==========================================================       |  89%  |                                                                         |==============================================================   |  95%  |                                                                         |=================================================================| 100%
+## 
+  |                                                                       
+  |                                                                 |   0%
+  |                                                                       
+  |===                                                              |   5%
+  |                                                                       
+  |=======                                                          |  11%
+  |                                                                       
+  |==========                                                       |  16%
+  |                                                                       
+  |==============                                                   |  21%
+  |                                                                       
+  |=================                                                |  26%
+  |                                                                       
+  |=====================                                            |  32%
+  |                                                                       
+  |========================                                         |  37%
+  |                                                                       
+  |===========================                                      |  42%
+  |                                                                       
+  |===============================                                  |  47%
+  |                                                                       
+  |==================================                               |  53%
+  |                                                                       
+  |======================================                           |  58%
+  |                                                                       
+  |=========================================                        |  63%
+  |                                                                       
+  |============================================                     |  68%
+  |                                                                       
+  |================================================                 |  74%
+  |                                                                       
+  |===================================================              |  79%
+  |                                                                       
+  |=======================================================          |  84%
+  |                                                                       
+  |==========================================================       |  89%
+  |                                                                       
+  |==============================================================   |  95%
+  |                                                                       
+  |=================================================================| 100%
 ```
 
 ![](figure/salary_adapted-1.png)
